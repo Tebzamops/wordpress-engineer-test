@@ -11,7 +11,7 @@ Outcome of task*
 
 For the test to be successful, we should be able to install the plugin on a fresh installation of WordPress. In other words, we’re looking for the following:
 
-* Ability to create a functioning WordPress plugi
+* Ability to create a functioning WordPress plugin
 * Ability to create a custom post type
 * Ability to create a meta box
 * Ability to show fields that save to post meta
